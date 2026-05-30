@@ -103,3 +103,7 @@ python validate_judge.py
 - `source_misrepresentation` checks only for the words "verified" or "authoritative," which is narrower than genuine source misrepresentation.
 - Tier 2 judge accuracy has not been separately validated against human labels.
 - Poison templates are generic and uniform across all tools. They were not tuned to maximize success against any specific target.
+
+## Report
+
+The full write-up covering methodology, results, and limitations is in [MCP-Tool-Poisoning-Report-Final-.md](MCP-Tool-Poisoning-Report-Final-.md).
