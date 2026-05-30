@@ -1,0 +1,18 @@
+# Environment variables - never commit API keys
+.env
+.env.*
+
+# Claude Code IDE settings
+.claude/
+
+# Test output
+results.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
