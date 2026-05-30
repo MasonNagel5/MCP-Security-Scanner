@@ -3,7 +3,6 @@
 
 **Author:** Mason Nagel
 **Date:** May 2026
-**Artifacts:** `mcp_scan_results_annotated.csv` (980 labeled runs), evaluation harness (`mcp_tools_scan.py`)
 
 ---
 
